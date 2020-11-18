@@ -21,7 +21,7 @@ It will get slow if the code is large.
 Its not a real time system.
 Security issues for industrial scenarios.
 
-INDUSTRIES WERE ROS IS USED;
+INDUSTRIES WERE ROS IS USED:
 BMW,EMBARK,INTEL,YASKAWA,MAGNA etc,.
 
 WHAT IS WORKSPACE,ROS PACKAGE,NODES,TOPICS,MESSAGES,SERVICES?
