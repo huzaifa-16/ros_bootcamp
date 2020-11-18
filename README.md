@@ -1,28 +1,32 @@
 # ros_bootcamp
-INTRODUCTION TO ROS
-
-# ros_bootcamp
 INTRODUCTION ON ROS
 
 What is ROS? Mentions its merits and limitations.
 
 Roboting operating system is not an operating system,it is a meta operating system for a robot. It provides service like hardware abstraction, low-level control etc.
 It needs another OS(operating system) to run.There are 2 types of ROS:
-ROS1 and ROS2
+  ROS1 and ROS2
 ROS runs on unix based OS. 
 ROS noetic ninjemys is the latest ROS1. Roswiki is a platform which provides enough info.abt ROS.
 
 MERITS OF ROS:
 Thin:allows the flexibility to run the code in robots.
+
 Free and open source:allows to adopt the code.
+
 Peer to peer communication:allows easy management for multi-board robots.
+
 Multi-language:allows coding in many languages like python,c++,octave etc.
+
 Strong intgration with 3rd party like GAZEBO,RViz
 
 LIMITATIONS:
 Powerful hardware is required.
+
 It will get slow if the code is large.
+
 Its not a real time system.
+
 Security issues for industrial scenarios.
 
 INDUSTRIES WERE ROS IS USED:
