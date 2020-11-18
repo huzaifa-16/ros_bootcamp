@@ -5,6 +5,7 @@ INTRODUCTION TO ROS
 INTRODUCTION ON ROS
 
 What is ROS? Mentions its merits and limitations.
+
 Roboting operating system is not an operating system,it is a meta operating system for a robot. It provides service like hardware abstraction, low-level control etc.
 It needs another OS(operating system) to run.There are 2 types of ROS:
 ROS1 and ROS2
