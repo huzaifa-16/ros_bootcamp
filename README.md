@@ -1,5 +1,5 @@
 # ros_bootcamp
-Intro on ROS
+INTRODUCTION ON ROS
 
 What is ROS? Mentions its merits and limitations.
 roboting operating system is not an operating system,it is a meta operating system for a robot. It provides service like hardware abstraction, low-level control etc.
